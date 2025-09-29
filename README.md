@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 Sobre mí  
-- 🌱 Desde **2023** construyendo proyectos en **frontend, backend y mobile**.  
+- 🌱 Desde **2022** construyendo proyectos en **frontend, backend y mobile**.  
 - 📱 Desarrollo de **apps móviles nativas y cross-platform** con **Kotlin, React Native, Expo y Kotlin Multiplatform (KMP)**.  
 - 🛠️ Experiencia en **arquitecturas Clean, Hexagonal, MVVM, MVI, MVP**, aplicando **principios SOLID** y **Ports & Adapters**.  
 - ☁️ Experiencia en **Cloud & DevOps** con **AWS (Lambda, S3, EC2, Route 53, SQS, SNS, DynamoDB, Serverless)**, gestión de servidores, **Docker**, CI/CD y despliegues automatizados.  
