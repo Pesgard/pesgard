@@ -1,6 +1,6 @@
 <!-- Profile README for GitHub: Pesgard -->
 # Hola, soy **Esgard Peinado**  
-💻 **Fullstack & Mobile Developer** | 🚀 Apasionado por crear soluciones eficientes y escalables | ⚡ Explorando nuevas tecnologías y DevOps  
+**Fullstack & Mobile Developer** | Apasionado por crear soluciones eficientes y escalables | Explorando nuevas tecnologías y DevOps  
 
 ---
 
